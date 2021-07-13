@@ -1,4 +1,4 @@
-class Ship
+class Boat
   attr_reader :name, :length, :health, :is_sunk
 
   def initialize(name, length)
